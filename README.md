@@ -14,7 +14,7 @@
 
 **Means:**  
 
-- All meaningful programming will be done in gym [gym](https://www.gymlibrary.ml/).
+- All meaningful programming will be done in [gym](https://www.gymlibrary.ml/).
 
 **Implementation**
 - Jupyter notebook to be run locally, as heavy animation makes colab implementation too slow.

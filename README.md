@@ -25,8 +25,8 @@
 go straight to experiments section that starts with "[Optionally] load Q_states". 
 - All cells preceding "Q-learning algo" still need to be executed.
 
-
-
-
-
+  
+  
+  
+  
 ![footer](https://user-images.githubusercontent.com/73858914/169065757-4b416243-1d98-403e-81b9-a39f853b2181.png)
